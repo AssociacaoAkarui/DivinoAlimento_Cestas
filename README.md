@@ -1,17 +1,10 @@
-# Plataforma do Divino Alimento - versão 1 - cestas
+# Plataforma do Divino Alimento - versão Cestas
 
 A plataforma do Divino Alimento facilita o fluxo de informação de vendas alimentos produzido por diversos agricultores e agricultoras, para diversos compradores e compradoras, por meio do ciclos de entrega de alimentos para venda de **cestas**.
 
-Uma plataforma criada em 2021 a luz iniciativa do Divino Alimento, que é contada com mais detalhes no site da [Akarui](https://www.akarui.org.br/divinoalimento) que acontece em São Luiz do Paraitinga, SP, em diálogo entre consumidores e agricultores e agricultoras ligados à Associação Minhoca.
+Uma plataforma criada em 2021 a luz iniciativa do Divino Alimento, que é contada com mais detalhes no site da [Akarui](https://www.akarui.org.br/divinoalimento) com apoio do grupo de consumidores de cestas de São Luiz do Paraitinga. 
 
-Sua primeira versão foi desenvolvida por Carmen Freitas (Desenvolvedora) em diálogo com Juliana Farinaci (Comunicação da Akarui) Em 2025, se somam mais pessoas ao processo que culmina na [versão 2](https://github.com/AssociacaoAkarui/DivinoAlimento/tree/main) e na atualização dessa versão cujo código está aqui nesse repositório. 
-
-São Alejandro González (Lider Técnico) e Nádia Coelho Pontes (Desenvolvedora), Ana Laura Carrilli (Extensionista), Damaris Chaves (Administrativo da Akarui), Daniela Coura (Extensionista), Allan Carlos (Design de Interface), Leonardo Ávila (Pesquisador em Design) e Sofia Kraja (Financeiro da Akarui).
-
----
-### Site com a documentação da plataforma
-
-https://docsdivinoalimento.tekopora.top/
+Para conhecer um pouco mais da plataforma connheça o [site](https://site.multifarm.top/docs/proj/divino/apresentacao) de documentação.
 
 ---
 
@@ -21,7 +14,7 @@ Clonar o repositório em um lugar do computador de seu conhecimento.
 
 No terminal, utilizar o código abaixo:
 
-`git clone https://github.com/AssociacaoAkarui/divinoalimento_cestas.git`
+`git clone https://github.com/AssociacaoAkarui/DivinoAlimento_Cestas.git`
 
 Entrar na pasta que foi criada, utilizando o comando cd 
 
